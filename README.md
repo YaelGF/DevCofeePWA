@@ -12,13 +12,13 @@ git clone https://github.com/YaelGF/DevCofeePWA.git
 # Run the project
 
 ## Main
-![main](/assets/Elementos.png)
+![main](/assets/main.png)
 
 ## ServiceWorker
-![SW](/assets/Tabla.png)
+![SW](/assets/sw.png)
 
 ## Manifest
-![manifest](/assets/Formularios.png)
+![manifest](/assets/manifest.png)
 
 
 # License
